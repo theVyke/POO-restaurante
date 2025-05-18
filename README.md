@@ -40,8 +40,8 @@ Projeto da disciplina de Programação Orientada à Objetos realizado como requi
 - [Interface - Java](https://www.w3schools.com/java/java_interface.asp)
 - [HashMap - Java](https://www.w3schools.com/java/java_hashmap.asp)
 - [ArrayList - Java](https://www.w3schools.com/java/java_arraylist.asp)
-
-
+- [Date e Time - Java](https://www.w3schools.com/java/java_date.asp)
+- [Enums - Java](https://www.w3schools.com/java/java_enums.asp)
 
 
 ## Instalação JDK ⚙️
