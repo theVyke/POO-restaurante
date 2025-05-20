@@ -1,7 +1,7 @@
 
 # SGBD - Restaurante 🍔
 
-Projeto da disciplina de Programação Orientada à Objetos realizado como requisto parcial para obtenção de nota.
+Projeto da disciplina de Programação Orientada à Objetos realizado como requisito parcial para obtenção de nota.
 
 
 ## Autores 🤝
