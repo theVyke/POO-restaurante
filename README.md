@@ -1,5 +1,5 @@
 
-# SGBD - Restaurante 🍔
+# POO - Restaurante 🍔
 
 Projeto da disciplina de Programação Orientada à Objetos realizado como requisito parcial para obtenção de nota.
 
