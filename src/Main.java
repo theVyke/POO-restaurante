@@ -61,7 +61,7 @@ public class Main {
         PratoService pratoService = new PratoService(pratoRepository);
         PratoController pratoController = new PratoController(pratoService);
 
-        boolean usarMap = true; // Decide qual implementação de repositório usar
+        boolean usarMap = true; //Qual implementação usar?
 
         PedidoRepository pedidoRepository;
         if (usarMap) {
@@ -82,12 +82,11 @@ public class Main {
 
         // Frontend entity
         PratoMenu pratoMenu = new PratoMenu(pratoController);
+        
         ItemPedidoMenu itemPedidoMenu = new ItemPedidoMenu(itemPedidoController);
-        // Instancie os submenus de pedidos
+        
         app.ui.menu.PedidoMenuBuscas pedidoMenuBuscas = new app.ui.menu.PedidoMenuBuscas(pedidoController);
         app.ui.menu.PedidoMenuManip pedidoMenuManip = new app.ui.menu.PedidoMenuManip(pedidoController);
-
-        // Passe os submenus para o PedidoMenu
         app.ui.menu.PedidoMenu pedidoMenu = new app.ui.menu.PedidoMenu(pedidoController, pedidoMenuBuscas , pedidoMenuManip);
 
         // Initialize the CLI
