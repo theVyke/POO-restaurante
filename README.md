@@ -6,7 +6,11 @@ Projeto da disciplina de Programação Orientada à Objetos realizado como requi
 
 ## Autores 🤝
 
-- [@theVyke | Matheus A. Estrela | **RGM:** 41068068](https://github.com/theVyke)
+- [ALEXANDRE DA SILVA | **RGM:** 37844717]
+- [Guilherme M. de Souza | **RGM:** 37656929]
+- [Matheus A. Estrela | **RGM:** 41068068](https://github.com/theVyke)
+- [Raul S. Santos | **RGM:** 35582103]
+- [Rubens Gustavo M. B. De Oliveira | **RGM:** 44126891]
 
 
 ## Documentação 📚
